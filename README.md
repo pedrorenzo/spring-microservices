@@ -1,5 +1,6 @@
 
 # Spring Microservices
+A project that I created to learn and practice some concepts and technologies related to microservices architecture.
 
 ## Should you use microservices architecture for your project?
 Challenges of working with microservices:
@@ -42,6 +43,7 @@ Service  | Port
 ------------- | -------------
 Limits Service  | 8080, 8081, 8082...
 Currency Conversion Service  | 8100, 8101, 8102...
+Currency Exchange Service  | 8000, 8001, 8002...
 Spring Cloud Config Server  | 8888
 Netflix Eureka Naming Server  | 8761
 Netflix Zuul API Gateway Server  | 8765
