@@ -1,0 +1,1 @@
+It will calculate the conversion from one currency to another. Will call CurrencyExchangeService to get the exchange values.

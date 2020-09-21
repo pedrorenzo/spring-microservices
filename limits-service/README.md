@@ -1,0 +1,2 @@
+This is one of the microservices, where we can obtain the minimum and maximum exchange limit information.
+All property configurations according to the environment are made by the Spring Cloud Config Server project. We renamed the application.properties file to bootstrap.properties and within that file we set spring.cloud.config.uri which is where the settings will be taken.

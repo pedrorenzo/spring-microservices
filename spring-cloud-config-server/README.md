@@ -1,0 +1,1 @@
+This project keeps the configuration of different microservices, in different environments, using the Spring Cloud Config Server.
